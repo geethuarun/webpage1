@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: white;
+    color: black;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+.nav-item a{
+    color: black;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+.btn1:hover{
+    background:grey;
+}
+.wave{
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    opacity: 0.3;
+    z-index: -1;
+
+}
